@@ -1,0 +1,15 @@
+.contact-form{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 80vh;
+    margin-top: 4rem;
+      /* scroll */
+  padding-top: 3rem;
+  position: relative;
+}
+
+
+.s-blur1{
+    top: -3rem;
+    left: -3rem;
+}
